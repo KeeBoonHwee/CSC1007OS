@@ -1,0 +1,1 @@
+cmd_/home/pi/linux/CSC1007OS/week2/chardev.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/linux/CSC1007OS/week2/chardev.ko /home/pi/linux/CSC1007OS/week2/chardev.o /home/pi/linux/CSC1007OS/week2/chardev.mod.o;  true
